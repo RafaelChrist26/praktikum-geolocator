@@ -1,3 +1,5 @@
 praktikum11
 
+ini adalah rafael berada di branch 1
+
 ini adalah christian berada di branch 2
